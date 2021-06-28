@@ -9,7 +9,7 @@ chardet==3.0.4
 fire==0.3.1
 google-api-core==1.28.0
 google-auth==1.30.0
-google-cloud-core==1.6.0
+google-cloud-core==1.7.1
 google-cloud-storage==1.27.0
 google-resumable-media==0.5.1
 googleapis-common-protos==1.53.0
