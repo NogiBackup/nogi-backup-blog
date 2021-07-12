@@ -7,7 +7,7 @@ cachetools==4.2.2
 certifi==2020.12.5
 chardet==3.0.4
 fire==0.3.1
-google-api-core==1.28.0
+google-api-core==1.31.0
 google-auth==1.30.0
 google-cloud-core==1.6.0
 google-cloud-storage==1.27.0
